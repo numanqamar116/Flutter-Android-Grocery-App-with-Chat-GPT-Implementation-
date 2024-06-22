@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935559121285",
+    "project_id": "grocer-d1cfd",
+    "storage_bucket": "grocer-d1cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935559121285:android:cd98bc1e29d4ee67f5dcec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_12_project_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvLlcRwO8Tnp_IJTMSBLzvK7D1bns8iA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
